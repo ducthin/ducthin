@@ -4,29 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducthin&label=Profile%20views&color=0e75b6&style=flat" alt="ducthin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **ducthinh123b@gmail.com**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thin2k4/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/edgar.nart/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/th%E1%BB%8Bnh-tr%E1%BA%A7n-625ba22a0/) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/thịnh trần" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thịnh trần" height="30" width="40" /></a>
-<a href="https://instagram.com/edgar.nart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edgar.nart" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thịnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thịnh" height="30" width="40" /></a>
-<a href="https://discord.gg/mr6868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mr6868" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ducthin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ducthin&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ducthin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" height="40" alt="javascript logo"  />
-  <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" height="40" alt="C++ logo"  />
-  <img src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" height="40" alt="java logo"  />
-  <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" height="40" alt="css logo"  />
-  <img src="https://img.icons8.com/?size=100&id=59916&format=png&color=000000" height="40" alt="html logo"  />
-</div>p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ducthin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducthin&show_icons=true&locale=en&layout=compact" alt="ducthin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducthin&show_icons=true&locale=en" alt="ducthin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ducthin&" alt="ducthin" /></p>
