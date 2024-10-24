@@ -17,7 +17,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-## Programming skills
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" height="40" alt="javascript logo"  />
   <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" height="40" alt="C++ logo"  />
